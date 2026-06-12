@@ -26,8 +26,8 @@
   --bg-dark: #ffffff;
   --bg-light: #ffffff;
 
-  --red-main: #6D28FF;
-  --red-bright: #8B5CFF;
+  --red-main: #0099CC;
+  --red-bright: #19a7d6;
 
   --white: #000000;
 }
@@ -61,7 +61,7 @@ body {
   width: 100%;
   height: 80px;
 
-  background: #e7680d;
+  background: #0099CC;
 
   overflow: hidden;
 
